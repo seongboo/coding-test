@@ -1,0 +1,2 @@
+# Advent of Code puzzle inputs must not be committed
+advent-of-code/**/input*
